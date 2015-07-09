@@ -1,0 +1,1042 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"u0009	\\u0009"
+			],
+			[
+				"vis",
+				"visibility	Style CSS"
+			],
+			[
+				"getE",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"docume",
+				"document	Document"
+			],
+			[
+				"getElement",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"getEl",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"docu",
+				"document	Document"
+			],
+			[
+				"document",
+				"document.URL	Document"
+			],
+			[
+				"L",
+				"Logical NOT (!)"
+			],
+			[
+				"alert",
+				"alert(${0:message})	Window"
+			],
+			[
+				"new",
+				"new Option()"
+			],
+			[
+				"sty",
+				"style	Style CSS"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ong",
+				"ongoingQuests"
+			],
+			[
+				"pla",
+				"playerItems"
+			],
+			[
+				"player",
+				"playerItems"
+			],
+			[
+				"on",
+				"ongoingQuests"
+			],
+			[
+				"que",
+				"questToBeCompleted"
+			],
+			[
+				"item",
+				"itemDesc"
+			],
+			[
+				"Po",
+				"Powerful"
+			],
+			[
+				"ev",
+				"eventID"
+			],
+			[
+				"F",
+				"Forest"
+			],
+			[
+				"Vi",
+				"Village"
+			],
+			[
+				"A",
+				"Alcea"
+			],
+			[
+				"event",
+				"eventID"
+			],
+			[
+				"ongoingQuestsR",
+				"ongoingQuestsRequirements"
+			],
+			[
+				"ques",
+				"questName"
+			],
+			[
+				"questr",
+				"questDescription"
+			],
+			[
+				"ongo",
+				"ongoingQuestsDescription"
+			],
+			[
+				"seen",
+				"seenDialogues"
+			],
+			[
+				"ite",
+				"itemLib"
+			],
+			[
+				"eve",
+				"eventNumber"
+			],
+			[
+				"qu",
+				"questToBeCompleted"
+			],
+			[
+				"ke",
+				"keysList"
+			],
+			[
+				"to",
+				"toRemove"
+			],
+			[
+				"cl",
+				"clonedRequirements"
+			],
+			[
+				"quest",
+				"questLib"
+			],
+			[
+				"ongoingQuestsRe",
+				"ongoingQuestsRequirements"
+			],
+			[
+				"even",
+				"event"
+			],
+			[
+				"re",
+				"rewards"
+			],
+			[
+				"q",
+				"questName"
+			],
+			[
+				"r",
+				"requirements"
+			],
+			[
+				"rer",
+				"requirements"
+			],
+			[
+				"mana",
+				"manaCost"
+			],
+			[
+				"s",
+				"sound"
+			],
+			[
+				"sound",
+				"soundChoice"
+			],
+			[
+				"spe",
+				"specialSpells"
+			],
+			[
+				"spell",
+				"spellDict"
+			],
+			[
+				"des",
+				"descriptions"
+			],
+			[
+				"sa",
+				"saveGame"
+			],
+			[
+				"pl",
+				"playerSpells_list"
+			],
+			[
+				"playe",
+				"playerSpells"
+			],
+			[
+				"sp",
+				"spellsFromSaveFile"
+			],
+			[
+				"impr",
+				"importedData"
+			],
+			[
+				"save",
+				"saveChoice"
+			],
+			[
+				"import",
+				"importedData"
+			],
+			[
+				"itm",
+				"itemDesc"
+			],
+			[
+				"play",
+				"playerClass"
+			],
+			[
+				"init",
+				"initPresets"
+			],
+			[
+				"p",
+				"presetKeys"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"battle",
+				"battleChoice"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"ply",
+				"playerItems"
+			],
+			[
+				"so",
+				"soundFile"
+			],
+			[
+				"end",
+				"endNumber"
+			],
+			[
+				"see",
+				"seenDialogues"
+			],
+			[
+				"view",
+				"viewItems"
+			],
+			[
+				"in",
+				"invisible"
+			],
+			[
+				"enemy",
+				"enemyGo"
+			],
+			[
+				"PLAYER",
+				"playerDamageToEnemy"
+			],
+			[
+				"ene",
+				"enemyHealth"
+			],
+			[
+				"B",
+				"Boulderchild"
+			],
+			[
+				"R",
+				"Roots"
+			],
+			[
+				"star",
+				"startNumber"
+			],
+			[
+				"bo",
+				"bookAuthor"
+			],
+			[
+				"book",
+				"bookName"
+			],
+			[
+				"loca",
+				"locationDict"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"loc",
+				"locationDict"
+			],
+			[
+				"location",
+				"locationList"
+			],
+			[
+				"st",
+				"startingHealth"
+			],
+			[
+				"alld",
+				"allDamage2"
+			],
+			[
+				"str",
+				"strength"
+			],
+			[
+				"f",
+				"flux"
+			],
+			[
+				"b",
+				"blink"
+			],
+			[
+				"os",
+				"oslid"
+			],
+			[
+				"class",
+				"classChoice"
+			],
+			[
+				"pa",
+				"parseCommand"
+			],
+			[
+				"use",
+				"useSpell"
+			],
+			[
+				"all",
+				"allDamage2"
+			],
+			[
+				"damage",
+				"damageKeys"
+			],
+			[
+				"lower",
+				"lowercase_damage"
+			],
+			[
+				"Is",
+				"is"
+			],
+			[
+				"batt",
+				"battleChoice"
+			],
+			[
+				"al",
+				"allRanks"
+			],
+			[
+				"enem",
+				"enemyBaseHealth"
+			],
+			[
+				"hostil",
+				"hostileLocations"
+			],
+			[
+				"d",
+				"descriptions"
+			],
+			[
+				"val",
+				"valsArr"
+			],
+			[
+				"dar",
+				"darkcyan"
+			],
+			[
+				"inde",
+				"text-indent"
+			],
+			[
+				"ka",
+				"katakana"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"upp",
+				"upper-roman"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"text",
+				"-webkit-text-emphasis"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"a",
+				"abbr	Tag"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"P",
+				"PRE	Tag"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"be",
+				"border-color"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "javascript-js.js",
+			"settings":
+			{
+				"buffer_size": 2789,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "javascript-items.js",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "javascript-shop.js",
+			"settings":
+			{
+				"buffer_size": 4100,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "text.html",
+			"settings":
+			{
+				"buffer_size": 855,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "javascript-init.js",
+			"settings":
+			{
+				"buffer_size": 954,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "color",
+		"selected_items":
+		[
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"in",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"instlal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insall",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jake (King of Cool)/Desktop/textadventure"
+	],
+	"file_history":
+	[
+		"/C/Users/Jake (King of Cool)/Documents/WBFS Manager Covers/Readme.txt",
+		"/C/Users/Jake (King of Cool)/Desktop/textadventure/index.html",
+		"/C/Users/Jake (King of Cool)/Desktop/textdungeon/textDungeon_js.js",
+		"/C/Users/Jake (King of Cool)/Desktop/textdungeon/index.html",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/game.py",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/spellLib.py",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/saveLib.py",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/dialogueLib.py",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/questLib.py",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/README.md",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/main.html",
+		"/C/Users/Jake (King of Cool)/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/itemLib.py",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/saveGame.dat",
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/The-Saving-of-Chora/setup.bat",
+		"/C/Users/Jake (King of Cool)/Desktop/Python Adventure Game/spellLib.py",
+		"/C/Users/Jake (King of Cool)/Desktop/Python Adventure Game/spells.py",
+		"/C/Users/Jake (King of Cool)/Desktop/Python Adventure Game/python adventure game.sublime-project",
+		"/C/Python34/clint-master/test_clint.py",
+		"/C/Python34/Scripts/pip3.4.exe",
+		"/C/Users/Jake (King of Cool)/Desktop/Python Adventure Game/clint-master/test_clint.py",
+		"/C/Users/Jake (King of Cool)/Desktop/2Bit.html",
+		"/C/Users/Jake (King of Cool)/Desktop/source/res/layout/activity_camera_popup.xml",
+		"/C/Users/Jake (King of Cool)/Desktop/source/AndroidManifest.xml",
+		"/C/Users/Jake (King of Cool)/Desktop/manageMe!.py",
+		"/C/Users/Jake (King of Cool)/Desktop/classes and objects.py",
+		"/C/Users/Jake (King of Cool)/Desktop/critterBug.py",
+		"/C/Users/Jake (King of Cool)/Desktop/Python Adventure Game/game.py",
+		"/C/Users/Jake (King of Cool)/Desktop/KapturLive - Copy/res/drawable-mdpi-v4/header_bg.xml",
+		"/C/Users/Jake (King of Cool)/Desktop/KapturLive.apk",
+		"/C/Users/Jake (King of Cool)/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jake (King of Cool)/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Jake (King of Cool)/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-settings",
+		"/C/Users/Jake (King of Cool)/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jake (King of Cool)/Desktop/SaveMe!/listener.js",
+		"/C/Users/Jake (King of Cool)/Desktop/SaveMe!/popup.js",
+		"/C/Users/Jake (King of Cool)/Desktop/SaveMe!/popup.html",
+		"/C/Users/Jake (King of Cool)/Desktop/SaveMe!/manifest.json",
+		"/C/Users/Jake (King of Cool)/Desktop/SaveMe!/paisley.png",
+		"/C/Users/Jake (King of Cool)/Downloads/popup.js",
+		"/C/Users/Jake (King of Cool)/Desktop/Adventure Game/main.py",
+		"/C/Users/Jake (King of Cool)/Desktop/FTB Launcher/FTBMageQuest/minecraft/config/hqm/quests.hqm",
+		"/C/Users/Jake (King of Cool)/Desktop/Adventure Game/mai.py",
+		"/C/Users/Jake (King of Cool)/Desktop/CleanType/main.html",
+		"/C/Users/Jake (King of Cool)/Desktop/CleanType/naut.css",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/BoxScan Version 2.0/main.html",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/BoxScan Version 2.0/info.html",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/tips.html",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/info.html",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/test.html",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/popup.js",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/popup.html",
+		"/C/Users/Jake (King of Cool)/Desktop/BoxScan/manifest.json",
+		"/C/Users/Jake (King of Cool)/Desktop/QuickThinker/corePy.py",
+		"/C/Users/Jake (King of Cool)/Desktop/[Python] Hello, World/pygame.py"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id = ",
+			"shopButtons",
+			"shop2",
+			"\")\n",
+			"parse",
+			"10",
+			"completeQuest",
+			"complete",
+			"goo",
+			"complete",
+			"completeQuest",
+			"def ",
+			"ongoingQuestsEvents",
+			"ongoingQuestsRewards",
+			"heal",
+			"perk",
+			"heal",
+			"\")\n",
+			"mainScreen()",
+			"locations",
+			"useitems",
+			")\n",
+			"parseCommand",
+			"parseCommand(command):",
+			"dialogueLib",
+			"none",
+			"time.sleep(0.25)",
+			"(\"\")",
+			"damage",
+			"on_white",
+			"(\"\")",
+			"\")",
+			"yellow",
+			"mainScreen()",
+			"....\")",
+			"help",
+			")\n",
+			"battle",
+			"(\"\")",
+			"autofocus",
+			"live",
+			"health",
+			"6",
+			")\n",
+			"print(\"****\" * 20)",
+			"usespell",
+			"]]) ",
+			"Rush",
+			"ctrl+v",
+			"ctrl+c",
+			"f12",
+			"{\n",
+			"}\n",
+			"color: #",
+			"color",
+			"headerimg",
+			"bg3",
+			"icon",
+			"!</",
+			"cleaned",
+			"-webkit-transition: color 1s ease-out;",
+			"li",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mainScreen(hostileLocations)",
+			"initLocations",
+			"nothing",
+			"time.sleep(0.05)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "javascript-js.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1007,
+								1007
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "javascript-items.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "javascript-shop.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								957,
+								957
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 599.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "text.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								770
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "javascript-init.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							],
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "textadventure.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 117.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
