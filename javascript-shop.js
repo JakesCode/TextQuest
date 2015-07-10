@@ -2,17 +2,20 @@ function hideShop()
 {
 	var shop = document.getElementById("shop");
 	shop.parentNode.removeChild(shop);
+    var shop2 = document.getElementById("shop2");
+    shop2.parentNode.removeChild(shop2);
 }
 
 function appendShopItem(shopItem)
 {
     // Create the list item:
-    var item = document.createElement( 'li' );
+    item = document.createElement( 'li' );
 
     // Set its contents:
     item.appendChild( document.createTextNode( 
         shopItem.name + ' - ' + shopItem.cost + ' Gold'
     ) );
+    item.id = "shop2";
 
     // Add it to the list:
     list.appendChild( item );
@@ -22,15 +25,14 @@ function appendShopItem(shopItem)
     radio.name = 'shop';
     radio.value = shopItem.name;
     radio.id = "shop";
+    radio.style.display = "inline-block";
+    radio.style.textAlign = "left";
     radio.onclick = function () {
         addValue( shopItem );
     };
 
     radio.appendChild( text );
-    document.body.appendChild( radio );
-
-    var lineBreak = document.createElement("BR");
-    document.body.appendChild(lineBreak);
+    document.getElementById("centeredDiv").appendChild( radio );
 }
 
 function addValue(shopItem)
@@ -66,7 +68,6 @@ function enterShop(position, locations, buttons, shopItems, shopCosts)
 
 	document.getElementById("option1").style.visibility = "hidden";
 	document.getElementById("option2").style.visibility = "hidden";
-	document.getElementById("option3").style.visibility = "hidden";
 	document.getElementById("optionalInfo").style.visibility = "hidden";
     document.getElementById("list2").style.visibility = "hidden";
     document.getElementById("stats").style.visibility = "hidden";

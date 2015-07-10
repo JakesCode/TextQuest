@@ -24,6 +24,8 @@ function reloadElements(position, locations, buttons, shopItems, shopCosts)
 
 function loadData(position, locations, buttons, shopItems, shopCosts)
 {
+	items();
+
 	document.getElementById("actionButton").style.visibility = "hidden";
 	document.getElementById("optionalInfo").style.visibility = "hidden";
 	document.getElementById("extraHeader").style.visibility = "hidden";
@@ -39,7 +41,6 @@ function loadData(position, locations, buttons, shopItems, shopCosts)
 	document.getElementById("header").style.visibility = "visible";
 	document.getElementById("option1").style.visibility = "visible";
 	document.getElementById("option2").style.visibility = "visible";
-	document.getElementById("option3").style.visibility = "visible";
 	document.getElementById("stats").style.visibility = "visible";
 
 	var position = parseInt(position);
@@ -47,11 +48,9 @@ function loadData(position, locations, buttons, shopItems, shopCosts)
 
 	document.getElementById("option1").innerHTML = (buttons[position].optionOne + " [" + buttons[position].actionOne + "]");
 	document.getElementById("option2").innerHTML = (buttons[position].optionTwo + " [" + buttons[position].actionTwo + "]");
-	document.getElementById("option3").innerHTML = "View your Items.";
 
 	document.getElementById("option1").onclick = function (){ parseInput(buttons[position].actionOne, position, locations, buttons, shopItems, shopCosts); }
 	document.getElementById("option2").onclick = function (){ parseInput(buttons[position].actionTwo, position, locations, buttons, shopItems, shopCosts); }
-	document.getElementById("option3").onclick = function (){ items(); }
 
 	var option1Action = buttons[position].actionOne;
 	var option2Action = buttons[position].actionTwo;

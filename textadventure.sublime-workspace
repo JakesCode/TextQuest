@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"display",
+				"display = 'inline-block'	Style CSS"
+			],
+			[
+				"b",
+				"bisque"
+			],
+			[
+				"shado",
+				"text-shadow"
+			],
+			[
+				"getEl",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"cla",
+				"className	Element"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
 				"u",
 				"u0009	\\u0009"
 			],
@@ -21,10 +45,6 @@
 			],
 			[
 				"getElement",
-				"getElementById(${0:id})	Element"
-			],
-			[
-				"getEl",
 				"getElementById(${0:id})	Element"
 			],
 			[
@@ -344,10 +364,6 @@
 				"flux"
 			],
 			[
-				"b",
-				"blink"
-			],
-			[
 				"os",
 				"oslid"
 			],
@@ -444,10 +460,6 @@
 				"text-decoration"
 			],
 			[
-				"a",
-				"abbr	Tag"
-			],
-			[
 				"h",
 				"html	html"
 			],
@@ -504,10 +516,18 @@
 	"buffers":
 	[
 		{
+			"file": "text.html",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "javascript-js.js",
 			"settings":
 			{
-				"buffer_size": 2789,
+				"buffer_size": 2740,
 				"line_ending": "Windows"
 			}
 		},
@@ -515,7 +535,7 @@
 			"file": "javascript-items.js",
 			"settings":
 			{
-				"buffer_size": 264,
+				"buffer_size": 556,
 				"line_ending": "Windows"
 			}
 		},
@@ -523,15 +543,7 @@
 			"file": "javascript-shop.js",
 			"settings":
 			{
-				"buffer_size": 4100,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "text.html",
-			"settings":
-			{
-				"buffer_size": 855,
+				"buffer_size": 2873,
 				"line_ending": "Windows"
 			}
 		},
@@ -539,7 +551,15 @@
 			"file": "javascript-init.js",
 			"settings":
 			{
-				"buffer_size": 954,
+				"buffer_size": 1031,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 316,
 				"line_ending": "Windows"
 			}
 		}
@@ -629,10 +649,11 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jake (King of Cool)/Desktop/textadventure"
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/TextQuest"
 	],
 	"file_history":
 	[
+		"/C/Users/Jake (King of Cool)/Documents/GitHub/TextQuest/text.html",
 		"/C/Users/Jake (King of Cool)/Documents/WBFS Manager Covers/Readme.txt",
 		"/C/Users/Jake (King of Cool)/Desktop/textadventure/index.html",
 		"/C/Users/Jake (King of Cool)/Desktop/textdungeon/textDungeon_js.js",
@@ -705,6 +726,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"option3",
+			">\n",
 			"id = ",
 			"shopButtons",
 			"shop2",
@@ -789,24 +812,148 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "javascript-js.js",
+					"file": "text.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2789,
+						"buffer_size": 1447,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1007,
-								1007
+								940,
+								940
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "javascript-js.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1023,
+								1023
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 989.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "javascript-items.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "javascript-shop.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "javascript-init.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
 							]
 						],
 						"settings":
@@ -824,130 +971,32 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "javascript-items.js",
+					"buffer": 5,
+					"file": "style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 264,
+						"buffer_size": 316,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								254,
-								254
+								269,
+								269
 							]
 						],
 						"settings":
 						{
 							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"word_wrap": true
+							"syntax": "Packages/CSS3/CSS3.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "javascript-shop.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4100,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								957,
-								957
-							]
-						],
-						"settings":
-						{
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 599.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "text.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 855,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								770,
-								770
-							]
-						],
-						"settings":
-						{
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "javascript-init.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 954,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15,
-								15
-							],
-							[
-								203,
-								203
-							]
-						],
-						"settings":
-						{
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]

@@ -6,4 +6,26 @@ body
 #header
 {
 	font-size: 60px;
+	text-shadow: 2px 2px firebrick;
+}
+
+#stats
+{
+	font-size: 40px;
+	text-shadow: 2px 2px bisque;
+}
+
+ul
+{
+	margin: 0px;
+	font-size: 20px;
+	display: inline-block;
+    text-align:left;
+}
+
+button
+{
+	margin: 0px;
+	display: inline-block;
+    text-align:left;
 }
